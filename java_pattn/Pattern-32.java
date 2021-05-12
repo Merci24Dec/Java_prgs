@@ -1,4 +1,4 @@
-public class Pattern30
+public class Pattern32
 {
 	public static void main(String[] args)
 	{
