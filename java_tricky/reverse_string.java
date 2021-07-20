@@ -17,3 +17,8 @@ public class Main
        }  
     }  
 } 
+//o/p
+/*Enter a String: akash
+
+After reverse string is: hsaka*/
+
